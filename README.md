@@ -75,6 +75,6 @@ Tim **ORION** (pengembang tunggal)
 
 | Nama | Kelas | Peran |
 |---|---|---|
-| Syaffira Nurul | 10 AKL 1 | Solo developer: perancangan, pengembangan, pengujian, dan dokumentasi |
+| Syaffira Nurul | 10 AKL 1 | Perancangan, pengembangan, pengujian, dan dokumentasi |
 
 Dokumentasi lengkap: lihat berkas Dokumentasi-ClassCash-ORION.docx
